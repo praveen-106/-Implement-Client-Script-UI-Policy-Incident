@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-25 19:48:02">
+<sys_ui_policy_action action="INSERT_OR_UPDATE">
+<cleared>false</cleared>
+<disabled>true</disabled>
+<field>urgency</field>
+<field_message/>
+<field_message_type>none</field_message_type>
+<mandatory>ignore</mandatory>
+<sys_class_name>sys_ui_policy_action</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_id>15b6c21873ab83105912f9f92ab8b733</sys_id>
+<sys_name>urgency</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_scope display_value="Global">global</sys_scope>
+<table>incident</table>
+<ui_policy display_value="High Impact Control">d1f28e98736b83105912f9f92ab8b767</ui_policy>
+<value_action>ignore</value_action>
+<visible>ignore</visible>
+</sys_ui_policy_action>
+</unload>
