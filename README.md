@@ -4,6 +4,7 @@ This repository contains configuration XMLs, Client Scripts, screenshots, and te
 
 ### Demo Video
 ▶️ Watch the ServiceNow Project Demo
+https://drive.google.com/file/d/1A5DuLL4geraBAu_F8uqdM0j97eMjHMar/view?usp=drivesdk
 
 ### Project Overview
 The objective of this project is to enforce dynamic business logic, automated field dependencies, form submission validations, and list-view editing restrictions on ServiceNow Incident records.
