@@ -25,10 +25,10 @@ The objective of this project is to enforce dynamic business logic, automated fi
 
 ## 👥 Team Members & Roles
 
-* **Nishanth T** — UI Policy Configuration & List Edit Client Script Development
-* **Ranjith S** — UI Policy Actions Configuration & Testing Suite Execution
-* **Ravichandran K** — `onChange` Client Script Implementation & Validation
-* **Ronald Paul Sebastin A** — `onSubmit` Save Validation Scripting & Reverse Testing
+* **PRAVEEN KUMAR V** — UI Policy Configuration & List Edit Client Script Development
+* **PONVASAN V** — UI Policy Actions Configuration & Testing Suite Execution
+* **PRAVEEN KUMAR M** — `onChange` Client Script Implementation & Validation
+* **NITHEESH KUMAR L** — `onSubmit` Save Validation Scripting & Reverse Testing
 
 ---
 
