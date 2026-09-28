@@ -20,7 +20,9 @@ The objective of this project is to enforce dynamic business logic, automated fi
 - PRAVEEN KUMAR M — onChange Client Script Implementation & Validation
 - NITHEESH KUMAR L — onSubmit Save Validation Scripting & Reverse Testing
 
-### Repository Directory Structure
+### 📁 Repository Directory Structure
+
+```
 Implement-Client-Script-UI-Policy-Incident/
 ├── README.md
 ├── docs/
@@ -33,4 +35,5 @@ Implement-Client-Script-UI-Policy-Incident/
 ├── ui_policies/
 │   ├── sys_ui_policy_High_Impact_Control.xml
 │   └── sys_ui_policy_action_Urgency_ReadOnly.xml
-└── Screenshots
+└── Screenshots/
+```
