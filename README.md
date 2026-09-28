@@ -15,7 +15,7 @@ The objective of this project is to enforce dynamic business logic, automated fi
 - onChange Client Script: Automatically sets Urgency to 1 - High and displays an informational message when Impact changes to High.
 - onSubmit Client Script: Validates that Assigned To is populated before submitting high-impact incidents, displaying an inline error box if missing.
 - onCellEdit Client Script: Blocks unauthorized inline updates to the State field directly from the Incident list view.
-- ### 👥 Team Members & Roles
+- 👥 Team Members & Roles
 - PRAVEEN KUMAR V — UI Policy Configuration & List Edit Client Script Development
 - PONVASAN V — UI Policy Actions Configuration & Testing Suite Execution
 - PRAVEEN KUMAR M — onChange Client Script Implementation & Validation
